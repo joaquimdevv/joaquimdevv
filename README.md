@@ -78,6 +78,8 @@ I like understanding how things work, building stuff, breaking stuff, and occasi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquimdev&theme=midnight-purple&hide_border=true" />
 </p>
 
+yeah, so much status :P
+
 ---
 
 ### ⚡ Beyond code
