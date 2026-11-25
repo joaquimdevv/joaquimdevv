@@ -7,10 +7,6 @@
   />
 </div>
 
-Hey, I'm Joaquim! 👋
-
-Student · Developer · Tech Enthusiast
-
-I'm a student passionate about technology, programming, and building things.
-
-I enjoy exploring software development, experimenting with new technologies, and turning ideas into real projects!
+Hey! I am Joaquim.
+I'm from Brazil, and I program in HTML, CSS, JavaScript, and Python.
+You shouldn't be seeing this.
