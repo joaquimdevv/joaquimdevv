@@ -1,3 +1,12 @@
+
+<div align="center">
+  <img
+    src="./images.jpeg"
+    width="100%"
+    alt="Joaquim's GitHub Banner"
+  />
+</div>
+
 Hey, I'm Joaquim! 👋
 
 Student · Developer · Tech Enthusiast
